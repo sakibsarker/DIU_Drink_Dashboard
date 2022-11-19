@@ -1,0 +1,35 @@
+.btn{
+    background-color:green;
+    border: 0;
+    padding: 10px;
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+    width: 20%;
+  }
+  .btn:hover{
+    opacity: 0.8;
+  }
+
+  .input{
+    width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  .container{
+    text-align: center;
+    background-color:white;
+    padding: 100px;
+    width: 50%px;
+  }
+  .title{
+    color: #000000;
+    font-weight: 500;
+  }
+  .login_container{
+    background-color: gainsboro;
+    padding: 100px;
+    
+  }

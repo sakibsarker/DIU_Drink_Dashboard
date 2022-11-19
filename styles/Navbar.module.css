@@ -1,0 +1,11 @@
+.nav_container{
+background-color: gold;
+
+}
+.nav_ul{
+    padding: 20px;
+}
+.li{
+    display: inline;
+    margin: 20px;
+}
