@@ -1,5 +1,5 @@
 .nav_container{
-background-color: gold;
+background-color:gray;
 
 }
 .nav_ul{
@@ -8,4 +8,5 @@ background-color: gold;
 .li{
     display: inline;
     margin: 20px;
+    color:white;
 }

@@ -2,4 +2,11 @@
     width: 100%;
     text-align: center;
     background-color: #f3f3f3;
+
+}
+
+.border{
+    background-color:white;
+    margin: 5px;
+    padding: 10px;
 }

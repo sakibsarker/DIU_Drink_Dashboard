@@ -13,9 +13,147 @@ const history = () => {
               <th>Total Order</th>
             </tr>
           </thead>
-          <tbody>
+          <tbody className={style.border}>
+          <tr>
+              <td>Professor Dr. Touhid Bhuiyan</td>
+              <td>Tea</td>
+              <td>22 November 2022</td>
+              <td>122</td>
+            </tr>
             <tr>
-              <td>Your Name</td>
+              <td>Professor Dr. Touhid Bhuiyan</td>
+              <td>Tea</td>
+              <td>22 November 2022</td>
+              <td>122</td>
+            </tr>
+            <tr>
+              <td>Professor Dr. Touhid Bhuiyan</td>
+              <td>Tea</td>
+              <td>22 November 2022</td>
+              <td>122</td>
+            </tr>
+            <tr>
+              <td>Professor Dr. Touhid Bhuiyan</td>
+              <td>Tea</td>
+              <td>22 November 2022</td>
+              <td>122</td>
+            </tr>
+            <tr>
+              <td>Professor Dr. Touhid Bhuiyan</td>
+              <td>Tea</td>
+              <td>22 November 2022</td>
+              <td>122</td>
+            </tr>
+            <tr>
+              <td>Professor Dr. Touhid Bhuiyan</td>
+              <td>Tea</td>
+              <td>22 November 2022</td>
+              <td>122</td>
+            </tr>
+            <tr>
+              <td>Professor Dr. Touhid Bhuiyan</td>
+              <td>Tea</td>
+              <td>22 November 2022</td>
+              <td>122</td>
+            </tr>
+            <tr>
+              <td>Professor Dr. Touhid Bhuiyan</td>
+              <td>Tea</td>
+              <td>22 November 2022</td>
+              <td>122</td>
+            </tr>
+            <tr>
+              <td>Professor Dr. Touhid Bhuiyan</td>
+              <td>Tea</td>
+              <td>22 November 2022</td>
+              <td>122</td>
+            </tr>
+            <tr>
+              <td>Professor Dr. Touhid Bhuiyan</td>
+              <td>Tea</td>
+              <td>22 November 2022</td>
+              <td>122</td>
+            </tr>
+            <tr>
+              <td>Professor Dr. Touhid Bhuiyan</td>
+              <td>Tea</td>
+              <td>22 November 2022</td>
+              <td>122</td>
+            </tr>
+            <tr>
+              <td>Professor Dr. Touhid Bhuiyan</td>
+              <td>Tea</td>
+              <td>22 November 2022</td>
+              <td>122</td>
+            </tr>
+            <tr>
+              <td>Professor Dr. Touhid Bhuiyan</td>
+              <td>Tea</td>
+              <td>22 November 2022</td>
+              <td>122</td>
+            </tr>
+            <tr>
+              <td>Professor Dr. Touhid Bhuiyan</td>
+              <td>Tea</td>
+              <td>22 November 2022</td>
+              <td>122</td>
+            </tr>
+            <tr>
+              <td>Professor Dr. Touhid Bhuiyan</td>
+              <td>Tea</td>
+              <td>22 November 2022</td>
+              <td>122</td>
+            </tr>
+            <tr>
+              <td>Professor Dr. Touhid Bhuiyan</td>
+              <td>Tea</td>
+              <td>22 November 2022</td>
+              <td>122</td>
+            </tr>
+            <tr>
+              <td>Professor Dr. Touhid Bhuiyan</td>
+              <td>Tea</td>
+              <td>22 November 2022</td>
+              <td>122</td>
+            </tr>
+            <tr>
+              <td>Professor Dr. Touhid Bhuiyan</td>
+              <td>Tea</td>
+              <td>22 November 2022</td>
+              <td>122</td>
+            </tr>
+            <tr>
+              <td>Professor Dr. Touhid Bhuiyan</td>
+              <td>Tea</td>
+              <td>22 November 2022</td>
+              <td>122</td>
+            </tr>
+            <tr>
+              <td>Professor Dr. Touhid Bhuiyan</td>
+              <td>Tea</td>
+              <td>22 November 2022</td>
+              <td>122</td>
+            </tr>
+            <tr>
+              <td>Professor Dr. Touhid Bhuiyan</td>
+              <td>Tea</td>
+              <td>22 November 2022</td>
+              <td>122</td>
+            </tr>
+            <tr>
+              <td>Professor Dr. Touhid Bhuiyan</td>
+              <td>Tea</td>
+              <td>22 November 2022</td>
+              <td>122</td>
+            </tr>
+            <tr>
+              <td>Professor Dr. Touhid Bhuiyan</td>
+              <td>Tea</td>
+              <td>22 November 2022</td>
+              <td>122</td>
+            </tr>
+            <tr>
+              <td>Professor Dr. Touhid Bhuiyan</td>
               <td>Tea</td>
               <td>22 November 2022</td>
               <td>122</td>
